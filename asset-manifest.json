@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/project-react/my-app/public/index.html/static/css/main.80ab7b74.css",
-    "main.js": "/project-react/my-app/public/index.html/static/js/main.7893bc0f.js",
-    "static/js/453.ed3810f9.chunk.js": "/project-react/my-app/public/index.html/static/js/453.ed3810f9.chunk.js",
-    "static/media/octicon_x-16.svg": "/project-react/my-app/public/index.html/static/media/octicon_x-16.b252e98f0f6c378971c43c607b855548.svg",
-    "index.html": "/project-react/my-app/public/index.html/index.html",
-    "static/media/bars-solid.svg": "/project-react/my-app/public/index.html/static/media/bars-solid.4ada9cff8def51a13630540467bf0937.svg",
-    "main.80ab7b74.css.map": "/project-react/my-app/public/index.html/static/css/main.80ab7b74.css.map",
-    "main.7893bc0f.js.map": "/project-react/my-app/public/index.html/static/js/main.7893bc0f.js.map",
-    "453.ed3810f9.chunk.js.map": "/project-react/my-app/public/index.html/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/project-react/static/css/main.80ab7b74.css",
+    "main.js": "/project-react/static/js/main.288b9598.js",
+    "static/js/453.ed3810f9.chunk.js": "/project-react/static/js/453.ed3810f9.chunk.js",
+    "static/media/octicon_x-16.svg": "/project-react/static/media/octicon_x-16.b252e98f0f6c378971c43c607b855548.svg",
+    "static/media/bars-solid.svg": "/project-react/static/media/bars-solid.4ada9cff8def51a13630540467bf0937.svg",
+    "index.html": "/project-react/index.html",
+    "main.80ab7b74.css.map": "/project-react/static/css/main.80ab7b74.css.map",
+    "main.288b9598.js.map": "/project-react/static/js/main.288b9598.js.map",
+    "453.ed3810f9.chunk.js.map": "/project-react/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80ab7b74.css",
-    "static/js/main.7893bc0f.js"
+    "static/js/main.288b9598.js"
   ]
 }

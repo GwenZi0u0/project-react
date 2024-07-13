@@ -1,11 +1,17 @@
-import React from "react"
+import React from "react";
 
-const Header = function (){
-  return(
+const Header = function () {
+  return (
     <>
-    <a href="#" id="logo" onClick={() => window.location.href = '../index.html'}>Website Title / Logo</a>
+      <a
+        href="#"
+        id="logo"
+        onClick={() => (window.location.href = "../index.html")}
+      >
+        Website Title / Logo
+      </a>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
